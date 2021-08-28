@@ -11,6 +11,7 @@
 		5A25C7D526DAB43500030AA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A25C7D426DAB43500030AA4 /* ContentView.swift */; };
 		5A25C7D726DAB43600030AA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A25C7D626DAB43600030AA4 /* Assets.xcassets */; };
 		5A25C7DA26DAB43600030AA4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A25C7D926DAB43600030AA4 /* Preview Assets.xcassets */; };
+		5A25C7E226DAB56000030AA4 /* MatrixView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A25C7E126DAB56000030AA4 /* MatrixView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5A25C7D626DAB43600030AA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A25C7D926DAB43600030AA4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5A25C7DB26DAB43600030AA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5A25C7E126DAB56000030AA4 /* MatrixView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatrixView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				5A25C7D226DAB43500030AA4 /* SwiftUI_AnimationKitApp.swift */,
 				5A25C7D426DAB43500030AA4 /* ContentView.swift */,
+				5A25C7E126DAB56000030AA4 /* MatrixView.swift */,
 				5A25C7D626DAB43600030AA4 /* Assets.xcassets */,
 				5A25C7DB26DAB43600030AA4 /* Info.plist */,
 				5A25C7D826DAB43600030AA4 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				5A25C7D526DAB43500030AA4 /* ContentView.swift in Sources */,
 				5A25C7D326DAB43500030AA4 /* SwiftUI_AnimationKitApp.swift in Sources */,
+				5A25C7E226DAB56000030AA4 /* MatrixView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
